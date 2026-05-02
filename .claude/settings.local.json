@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(open /Users/elion161/prompts/cavirelle_prompts.html)",
+      "Bash(gh auth *)",
+      "Bash(gh repo *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(git -c credential.helper='!f\\(\\){ echo \"username=token\"; echo \"password=$\\(cat -\\)\"; }; f' push origin main)",
+      "Bash(git remote *)"
+    ]
+  }
+}
