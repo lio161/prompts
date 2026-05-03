@@ -26,9 +26,13 @@
 
 **Script:** *„Morbus Dupuytren nimmt dir deine Handfunktion – Finger für Finger."*
 
---- SCENE 1: Finger für Finger ---
+--- SCENE 1: Finger für Finger — IMAGE PROMPT (Kling / Static) ---
 
 Claymation-CGI-Animationsstil, sichtbare Fingerabdrücke auf Plastilin-Oberflächen, matte Knetmasse-Textur, warme erdige Töne, Stop-Motion-Ruckeln, Miniaturset-Ästhetik mit handgebauten Möbeln und Requisiten, tilt-shift macro depth of field, vielfältige Farbpalette mit klar unterscheidbaren Objekten, handgemacht und bewusst unperfekt, 9:16 vertical, high detail. A claymation figure of Thomas, 54 years old, made of soft plasticine, short grey clay hair with visible tool marks, two small flat round dark blue clay dot eyes — no iris, no whites, no detail, identical simple clay dots as in all scenes — slightly wrinkled fair clay skin with tiny fingerprints, wearing a hand-shaped dark green clay fleece sweater, grey clay pants and sturdy clay shoes, slightly imperfect handcrafted proportions. He sits at a hand-built miniature kitchen table made of clay and cardboard, attempting to lay his right clay hand flat on the table surface — but the ring finger and little finger are visibly bent and curled downward toward the palm, permanently contracted, unable to touch the table. He stares at his own hand with a heavy, resigned expression, clay brow deeply furrowed, mouth a flat tight line. The table has a tiny clay coffee cup and scattered clay papers. Warm clay-ivory (#E8E0CC) backdrop fills the entire 9:16 canvas. Soft cool daylight from a tiny clay window. Medium close-up, Thomas and his hand both sharp, table softly blurred. No text, no watermark, no logo. IMPORTANT: tall portrait 9:16 aspect ratio.
+
+--- SCENE 1: Finger für Finger — KLING VIDEO PROMPT (Image-to-Video) ---
+
+The claymation figure slowly lowers his right hand toward the table surface. The ring finger and little finger remain permanently bent and curled toward the palm throughout the entire motion — they do NOT straighten, do NOT flatten, do NOT change shape at any point. Only the thumb, index and middle finger approach the table surface. The hand never lies flat. Thomas's clay brow furrows deeper as he registers that his fingers refuse to extend. His head tilts slightly downward to look at his hand. Subtle stop-motion jitter throughout. Camera holds still with a very slow gentle push-in toward the hand on the table. Soft warm lamp light. No sudden movements, slow melancholic pace.
 
 ---
 
